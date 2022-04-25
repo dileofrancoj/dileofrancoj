@@ -4,13 +4,13 @@
 </p>
 
 <h3 align="center">
-   Me divierto con la tecnología y me encanta la física y la electrónica
+   Me divierto con la tecnología. Me encanta la física y la electrónica
 </h3>
 
 
 <p align="center">Soy <strong>Desarrollador Full Stack MERN & MEAN </strong> con 5 años experiencia en el rubro.<br /><br /></p>
 <p align="center">
-   Trabajo como Frontend Developer en <strong> Mercado Libre Argentina </strong><br />
+   Trabajo como Frontend Developer en <strong>Pedidos Ya Argentina </strong><br />
 </p>
 
 <p align="center">
