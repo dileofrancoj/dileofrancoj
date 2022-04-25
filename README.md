@@ -1,5 +1,5 @@
 <p align="center" width="300">
-   <img align="center" width="200" src="https://media-exp3.licdn.com/dms/image/C4E03AQGJfv0z9KVnAw/profile-displayphoto-shrink_400_400/0/1536587687188?e=1628726400&v=beta&t=a9UtcIMXyPO9G8bGls39416bcQl2ZiGlCPDABxg97Q4" />
+   <img align="center" width="200" src="https://avatars.githubusercontent.com/u/27651332?s=400&u=e8ddd873420e3e81bc0cd94e7ea7233a23f2f0b6&v=4" />
    <h3 align="center">¡Hey 👋! Soy Franco Di Leo 💻</h3>
 </p>
 
