@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-   Me desempeño como Docente en <strong> UTN FRBA </strong> dando clases de React, NodeJS y Angular.<br />
+  Emprendedor y docente 🚀<br />
 </p>
 
 
