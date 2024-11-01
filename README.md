@@ -8,13 +8,13 @@
 </h3>
 
 
-<p align="center">Soy <strong>Desarrollador Full Stack MERN & MEAN </strong> con 5 años experiencia en el rubro.<br /><br /></p>
+<p align="center">Soy <strong>Desarrollador de Software como +6 años de experiencia en el rubro<br /><br /></p>
 <p align="center">
-   Trabajo como Frontend Developer en <strong>Pedidos Ya Argentina </strong><br />
+  Trabajo hace +3 años como Desarrollador en Pedidos YA. Estoy interesado en arquitectura de software, algoritmos, desarrollo backend y mi perfil está orientado a producto.
 </p>
 
 <p align="center">
-  Emprendedor y docente 🚀<br />
+  Fundador de LVL UP Academy y docente 🚀<br />
 </p>
 
 
